@@ -1,8 +1,6 @@
-# Meteor Addon Template
+# Tympanic's fuckery
 
-A template to allow easy usage of the Meteor Addon API.
+A meteor addon with what ever the fuck i want
 
 ### How to use:  
-- Clone this project
-- Use this template to create new modules/commands
-- Run the mod with Meteor.
+download the latest from (releases)[https://github.com/tympanicblock61/tympanic-s-fuckery/releases]and put it in your mods folder with meteor
